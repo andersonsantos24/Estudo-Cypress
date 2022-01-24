@@ -1,0 +1,21 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "untitled.spec.js",
+  "dependencies": {
+    "cypress": "^9.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Anderson Santos",
+  "license": "MIT"
+}
